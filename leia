@@ -1,2 +1,7 @@
 yarn create react-app my-app
 
+yarn start
+
+yarn add axios
+
+yarn add react-router-dom
